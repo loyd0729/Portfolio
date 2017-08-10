@@ -9,14 +9,17 @@
     color: #fff;
     background-image: url("md.jpg");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100% 100%;
     background-color: #5f9ea0;
   }
 
   #section2 {
-    padding-top: 50px;
+		padding-top: 50px;
     height: 500px;
     color: #fff;
+		background-image: url("bugs.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
     background-color: #673ab7;
   }
 
@@ -24,6 +27,9 @@
     padding-top: 50px;
     height: 500px;
     color: #fff;
+		background-image: url("isabella.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
     background-color: #ff9800;
   }
 
@@ -31,6 +37,9 @@
     padding-top: 50px;
     height: 500px;
     color: #fff;
+		background-image: url("gburg.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
     background-color: #2dc72d;
   }
 

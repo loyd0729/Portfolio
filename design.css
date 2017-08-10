@@ -1,0 +1,39 @@
+* {
+				box-sizing: border-box;
+			}
+
+  #section1 {
+    padding-top:120px;
+    height: 500px;
+    text-align: center;
+    color: #fff;
+    background-image: url("md.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #5f9ea0;
+  }
+
+  #section2 {
+    padding-top: 50px;
+    height: 500px;
+    color: #fff;
+    background-color: #673ab7;
+  }
+
+  #section3 {
+    padding-top: 50px;
+    height: 500px;
+    color: #fff;
+    background-color: #ff9800;
+  }
+
+  #section4 {
+    padding-top: 50px;
+    height: 500px;
+    color: #fff;
+    background-color: #2dc72d;
+  }
+
+  a {
+    position:
+  }

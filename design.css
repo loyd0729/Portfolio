@@ -1,5 +1,5 @@
 * {
-				box-sizing: border-box;
+	box-sizing: border-box;
 			}
 
   #section1 {
@@ -7,40 +7,37 @@
     height: 500px;
     text-align: center;
     color: #fff;
-    background-image: url("md.jpg");
+    background-image: url("bugs2.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
-    background-color: #5f9ea0;
   }
 
   #section2 {
-		padding-top: 50px;
+	padding-top: 50px;
     height: 500px;
     color: #fff;
-	background-image: url("bugs.jpg");
+	text-align: center;
+	background-image: url("ninja2.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
-    background-color: #673ab7;
   }
 
   #section3 {
     padding-top: 50px;
     height: 500px;
+	text-align: center;
     color: #fff;
-		background-image: url("isabella.jpg");
+	background-image: url("gaze.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
-    background-color: #ff9800;
   }
 
   #section4 {
     padding-top: 50px;
     height: 500px;
+	text-align: center;
     color: #fff;
-		background-image: url("gburg.jpg");
+	background-image: url("manila.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
-    background-color: #2dc72d;
   }
-
-  
